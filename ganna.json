@@ -13,7 +13,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -24,7 +24,7 @@
                 "song_name":"jiyo re bahubal",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -35,7 +35,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -46,7 +46,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -56,7 +56,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -66,7 +66,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -76,7 +76,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -87,7 +87,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -95,7 +95,7 @@
                 "song_name":" Muslo top 5 ",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/internation_top5love.jpg",
+                "image_source":"./images/internation_top5love.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -109,7 +109,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -120,7 +120,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -131,7 +131,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -142,7 +142,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -152,7 +152,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -162,7 +162,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -172,7 +172,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -183,7 +183,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -191,7 +191,7 @@
                 "song_name":"bollywood top 50",
                 "album_name":"",
                 "singers":"",
-             "image_source":"../images/top_50.jpg",
+             "image_source":"./images/top_50.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -205,7 +205,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -216,7 +216,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -227,7 +227,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -238,7 +238,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -248,7 +248,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -258,7 +258,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -268,7 +268,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -279,7 +279,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -287,7 +287,7 @@
                 "song_name":"new hot 20 hindi songs",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/new_20.jpg",
+                "image_source":"./images/new_20.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"
             },
@@ -301,7 +301,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -312,7 +312,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -323,7 +323,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -334,7 +334,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -344,7 +344,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -354,7 +354,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -364,7 +364,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -375,7 +375,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -383,7 +383,7 @@
                 "song_name":"bollywood love 2017",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/bollylove_top5.jpg",
+                "image_source":"./images/bollylove_top5.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -396,7 +396,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -407,7 +407,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -418,7 +418,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -429,7 +429,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -439,7 +439,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -449,7 +449,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -459,7 +459,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -470,7 +470,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -478,7 +478,7 @@
                 "song_name":"new 20 international songs",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/internation_top5.jpg",
+                "image_source":"./images/internation_top5.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -491,7 +491,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -502,7 +502,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -513,7 +513,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -524,7 +524,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -534,7 +534,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -544,7 +544,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -554,7 +554,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -565,7 +565,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -573,7 +573,7 @@
                 "song_name":"latest love bollywood 2017 songs",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/bollylove_top5.jpg",
+                "image_source":"./images/bollylove_top5.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -586,7 +586,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -597,7 +597,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -608,7 +608,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -619,7 +619,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -629,7 +629,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -639,7 +639,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -649,7 +649,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -660,7 +660,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -668,7 +668,7 @@
                 "song_name":"today top 5",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/internation_top5love.jpg",
+                "image_source":"./images/internation_top5love.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"
             },
@@ -682,7 +682,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -693,7 +693,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -704,7 +704,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -715,7 +715,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -725,7 +725,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -735,7 +735,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -745,7 +745,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -756,7 +756,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -764,7 +764,7 @@
                 "song_name":"today hindi top 5",
                 "album_name":"",
                 "singers":"",
-                "image_source":"../images/hindi_top5.jpg",
+                "image_source":"./images/hindi_top5.JPG",
                 "quality":{"low":"","medium":"","high":""},
                 "release_date":"date"
             }
@@ -778,7 +778,7 @@
                 "song_name":"Bat For Lashes",
                 "album_name":"Bat For Lashes",
                 "singers":"",
-                "image_source":"../images/bat.jpg",
+                "image_source":"./images/bat.JPG",
                 "quality":{"low":"songs/BatDaniel.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -789,7 +789,7 @@
                 "song_name":"Between The Bars",
                 "album_name":"Between The Bars",
                 "singers":"",
-                "image_source":"../images/btwnthebars.jpg",
+                "image_source":"./images/btwnthebars.JPG",
                 "quality":{"low":"songs/TheBars.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -800,7 +800,7 @@
                 "song_name":"Guts Over fear",
                 "album_name":" ",
                 "singers":"",
-                "image_source":"../images/gutsoverfear.jpg",
+                "image_source":"./images/gutsoverfear.JPG",
                 "quality":{"low":"songs/gutsover.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -812,7 +812,7 @@
                  "song_name":"raabta",
                  "album_name":"raabta",
                  "singers":"",
-                 "image_source":"../images/rabta.jpg",
+                 "image_source":"./images/rabta.JPG",
                  "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                  "release_date":"date"
              },
@@ -823,7 +823,7 @@
                  "song_name":"shape of you",
                  "album_name":"shape of you",
                  "singers":"",
-                 "image_source":"../images/shape_of_you.jpg",
+                 "image_source":"./images/shape_of_you.JPG",
                  "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                  "release_date":"date"
              },
@@ -834,7 +834,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -844,7 +844,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -854,7 +854,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"}
            
@@ -868,7 +868,7 @@
                 "song_name":"paro",
                 "album_name":"pyaar ka panchnaman 2",
                 "singers":"",
-                "image_source":"../images/ppk2.jpg",
+                "image_source":"./images/ppk2.JPG",
                 "quality":{"low":"songs/paro.mp3","medium":"","high":""},
                 "release_date":"date"      
                 },
@@ -879,7 +879,7 @@
                 "song_name":"jiyo re bahubali",
                 "album_name":"bahubali 2",
                 "singers":"",
-                "image_source":"../images/bahubali.jpg",
+                "image_source":"./images/bahubali.JPG",
                 "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                 "release_date":"date"    
                },
@@ -890,7 +890,7 @@
                 "song_name":"hamsafar",
                 "album_name":"badrinath ki dhulania",
                 "singers":"",
-                "image_source":"../images/hamsafar.jpg",
+                "image_source":"./images/hamsafar.JPG",
                 "quality":{"low":"songs/hamsafar.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -901,7 +901,7 @@
                 "song_name":"ik vaari aa",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/ik_vaari_aa.jpg",
+                "image_source":"./images/ik_vaari_aa.JPG",
                 "quality":{"low":"songs/ikvaariaa.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -911,7 +911,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -921,7 +921,7 @@
                 "song_name":"let me love you",
                 "album_name":"encore",
                 "singers":"",
-                "image_source":"../images/letmeloveu.jpg",
+                "image_source":"./images/letmeloveu.JPG",
                 "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                 "release_date":"date"},
             {
@@ -931,7 +931,7 @@
                 "song_name":"raabta",
                 "album_name":"raabta",
                 "singers":"",
-                "image_source":"../images/rabta.jpg",
+                "image_source":"./images/rabta.JPG",
                 "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -942,7 +942,7 @@
                 "song_name":"shape of you",
                 "album_name":"shape of you",
                 "singers":"",
-                "image_source":"../images/shape_of_you.jpg",
+                "image_source":"./images/shape_of_you.JPG",
                 "quality":{"low":"songs/shapeofyou.mp3","medium":"","high":""},
                 "release_date":"date"
             }
@@ -958,7 +958,7 @@
                  "song_name":"raabta",
                  "album_name":"raabta",
                  "singers":"",
-                 "image_source":"../images/rabta.jpg",
+                 "image_source":"./images/rabta.JPG",
                  "quality":{"low":"songs/raabta.mp3","medium":"","high":""},
                  "release_date":"date"
              },
@@ -969,7 +969,7 @@
                  "song_name":"let me love you",
                  "album_name":"encore",
                  "singers":"",
-                 "image_source":"../images/letmeloveu.jpg",
+                 "image_source":"./images/letmeloveu.JPG",
                  "quality":{"low":"songs/letmeloveu.mp3","medium":"","high":""},
                  "release_date":"date"},
 
@@ -979,7 +979,7 @@
                  "song_name":"Down to earth",
                  "album_name":" ",
                  "singers":"",
-                 "image_source":"../images/down.jpg",
+                 "image_source":"./images/down.JPG",
                  "quality":{"low":"songs/downtoearth.mp3","medium":"","high":""},
                  "release_date":"date"      
                  },
@@ -991,7 +991,7 @@
                 "song_name":"Dil Acapellsa",
                 "album_name":" ",
                 "singers":"",
-                "image_source":"../images/dilaca.jpg",
+                "image_source":"./images/dilaca.JPG",
                 "quality":{"low":"songs/dilacapellsa.mp3","medium":"","high":""},
                 "release_date":"date"
             },
@@ -1002,7 +1002,7 @@
                 "song_name":" Asi Desi ",
                 "album_name":" ",
                 "singers":"",
-                "image_source":"../images/desi.jpg",
+                "image_source":"./images/desi.JPG",
                 "quality":{"low":"songs/DesiBohemia.mp3","medium":"","high":""},
                 "release_date":"date"},
 
@@ -1013,7 +1013,7 @@
                      "song_name":"jiyo re bahubali",
                      "album_name":"bahubali 2",
                      "singers":"",
-                     "image_source":"../images/bahubali.jpg",
+                     "image_source":"./images/bahubali.JPG",
                      "quality":{"low":"songs/jiyorebahubali.mp3","medium":"","high":""},
                      "release_date":"date"    
                     },
@@ -1027,7 +1027,7 @@
                 "song_name":"ladki kar gayi chull",
                 "album_name":"kapoor and sons",
                 "singers":"",
-                "image_source":"../images/hip_hop.jpg",
+                "image_source":"./images/hip_hop.JPG",
                 "quality":{"low":"songs/kargyichull.mp3","medium":"","high":""},
                 "release_date":"date"}
             
